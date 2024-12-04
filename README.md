@@ -21,7 +21,7 @@ Before you begin, ensure you have the following installed:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/boycott-israeli-tech.git
+git clone https://github.com/hkzak2/the-bsd-fe.git
 cd boycott-israeli-tech
 ```
 
